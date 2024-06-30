@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💠 What is UmaruV4?
 
-<p>John Lester created the UmaruV4 Facebook Messenger bot. It is essentially a project that builds a bot system specifically for Facebook Messenger in order to provide users with a new experience in Messenger.<br><br>Preview:</p>
+<p>Anthony Thimothy created the UmaruV4 Facebook Messenger bot. It is essentially a project that builds a bot system specifically for Facebook Messenger in order to provide users with a new experience in Messenger.<br><br>Preview:</p>
 <img src="https://i.imgur.com/uw2LYZY.jpg" style="width:360px;"></img>
 
 ## 🔐 Appstate Encryption
